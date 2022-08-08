@@ -1,6 +1,6 @@
 Aplicativo desenvolvido totalmente em python com o intuito de baixar videos e playlists do youtube.
 
-Muitos sites ja existentes contém muitos anúncios, então tive a ideia de criar um aplicativo onde nao contém anúncios.
+Muitos sites ja existentes contém muitos anúncios, então tive a ideia de criar um aplicativo onde não contém anúncios.
 
 O mesmo baixa e já converte para .mp3 as músicas desejada.
 
